@@ -96,7 +96,7 @@ export default defineConfig(({ command }) => ({
         start_url: '/',
         display: 'standalone',
         background_color: '#080810',
-        theme_color: '#7b82f0',
+        theme_color: '#080810',
         icons: [
           {
             src: 'assets/favicon-32x32.png',
