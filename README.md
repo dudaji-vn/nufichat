@@ -1,3 +1,5 @@
+> **MOVED:** development continues in [dudaji-vn/nufi-app](https://github.com/dudaji-vn/nufi-app) under `apps/chat/`. This repo is frozen; no upstream sync is maintained anymore.
+
 <p align="center">
   <a href="https://librechat.ai">
     <img src="client/public/assets/logo.svg" height="256">
